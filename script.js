@@ -1,1 +1,15 @@
 //your JS code here. If required.
+.code{
+	width:30px;
+	height:30px;
+}
+.box{
+	border:1px solid black;
+	border-radius:5px;
+	padding:10px;
+	display:flex;
+    flex-direction:column;
+	justify-content:center;
+	align-items:center;
+	
+}
